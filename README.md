@@ -1,9 +1,11 @@
-# 🎨 Scss-Project
+🎨 Scss Projesi
+Bu proje, SCSS yapısı sayesinde geliştirilmiş modern ve esnek bir web arayüzü çalışmasıdır. Projede stil yönetimini kolaylaştırmak amacıyla SASS/SCSS mimarisinden faydalanılmıştır.
 
-Bu proje, SCSS yapısı kullanılarak geliştirilmiş modern ve esnek bir web arayüzü çalışmasıdır. Projede stil yönetimini kolaylaştırmak amacıyla SASS/SCSS mimarisinden yararlanılmıştır.
+🛠️ Kullanılan Teknolojiler
 
-### 🛠️ Kullanılan Teknolojiler
-
-[![HTML5](https://shields.io)](https://whatwg.org)
-[![CSS3](https://shields.io)](https://w3.org)
-[![SASS / SCSS](https://shields.io)](https://sass-lang.com)
+<p align="left">
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="SASS" />
+  <img src="https://shields.io" alt="VS Code" />
+</p>
